@@ -1,10 +1,10 @@
 # django 文档 
 
-[官网源PDF](./django.pdf), [官网](https://docs.djangoproject.com/zh-hans/3.1/)有现成的中文翻译,有需要直接看
+Django文档[官网英文PDF](./django.pdf), 官网有现成的[中文翻译](https://docs.djangoproject.com/zh-hans/3.1/),有需要直接看
 
-下面为个人练习英文，尝试翻译 👇👇👇
+下面为对照官网英文PDF版的个人练习翻译 👇👇👇
 
-
+********
 
 # Django 文档 版本 3.1.3.dev
 
