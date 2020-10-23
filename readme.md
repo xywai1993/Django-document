@@ -38,7 +38,7 @@ Django文档[官网英文PDF](doc/django.pdf), 官网有现成的[中文翻译](
     - [2.1 Django 大致一览](doc/2.md)
     - [2.2 快速安装教程](doc/2.2.md)
     - [2.3 编写第一个 Django APP ，第一部分](doc/2.3.md)
-    - 2.4 编写第一个 Django APP ，第二部分
+    - [2.4 编写第一个 Django APP ，第二部分](doc/2.4.md)
     - 2.5 编写第一个 Django APP ，第三部分
     - 2.6 编写第一个 Django APP ，第四部分
     - 2.7 编写第一个 Django APP ，第五部分
