@@ -1,6 +1,6 @@
 # django 文档 
 
-Django文档[官网英文PDF](doc/django.pdf), 官网有现成的[中文翻译](https://docs.djangoproject.com/zh-hans/3.1/),有需要直接看
+Django文档[官网英文PDF](doc/django.pdf), 官网有现成的[中文翻译](https://docs.djangoproject.com/zh-hans/3.1/)(不过没有翻译完),有需要直接看
 
 下面为对照官网英文PDF版的个人练习翻译 👇👇👇
 
