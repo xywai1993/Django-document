@@ -1,0 +1,13 @@
+{
+    "cSpell.ignoreWords": [
+        "backends",
+        "contenttypes",
+        "lconfs",
+        "mysite",
+        "pdfs",
+        "postgresql",
+        "staticfiles",
+        "ur",
+        "ur lconfs"
+    ]
+}
