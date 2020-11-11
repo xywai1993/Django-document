@@ -1,10 +1,10 @@
-# django 文档 
+# django 文档
 
 官网有现成的[中文翻译](https://docs.djangoproject.com/zh-hans/3.1/)(不过没有翻译完),有需要直接看。
 
-下面为对照[官网英文PDF](doc/django.pdf)版的个人练习翻译 👇👇👇
+下面为对照[官网英文 PDF](doc/django.pdf)版的个人练习翻译 👇👇👇
 
-********
+---
 
 # Django 文档 版本 3.1.3.dev
 
@@ -39,7 +39,7 @@
     - [2.2 快速安装教程](doc/2.2.md)
     - [2.3 编写第一个 Django APP ，第一部分](doc/2.3.md)
     - [2.4 编写第一个 Django APP ，第二部分](doc/2.4.md)
-    - 2.5 编写第一个 Django APP ，第三部分
+    - [2.5 编写第一个 Django APP ，第三部分](doc/2.5.md)
     - 2.6 编写第一个 Django APP ，第四部分
     - 2.7 编写第一个 Django APP ，第五部分
     - 2.8 编写第一个 Django APP ，第六部分
@@ -167,4 +167,3 @@
 Python 模块索引
 
 索引
-
