@@ -42,7 +42,7 @@
     - [2.5 编写第一个 Django APP ，第三部分](doc/2.5.md)
     - [2.6 编写第一个 Django APP ，第四部分](doc/2.6.md)
     - [2.7 编写第一个 Django APP ，第五部分](doc/2.7.md)
-    - 2.8 编写第一个 Django APP ，第六部分
+    - [2.8 编写第一个 Django APP ，第六部分](doc/2.8.md)
     - 2.9 编写第一个 Django APP ，第七部分
     - 2.10 进阶指南：如何编写可复用的程序
     - 2.11 接下来看什么
