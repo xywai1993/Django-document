@@ -35,7 +35,7 @@
 
 2. 开始
 
-    - [2.1 Django 大致一览](doc/2.md)
+    - [2.1 Django 大致一览](doc/2.1.md)
     - [2.2 快速安装教程](doc/2.2.md)
     - [2.3 编写第一个 Django APP ，第一部分](doc/2.3.md)
     - [2.4 编写第一个 Django APP ，第二部分](doc/2.4.md)
@@ -43,7 +43,7 @@
     - [2.6 编写第一个 Django APP ，第四部分](doc/2.6.md)
     - [2.7 编写第一个 Django APP ，第五部分](doc/2.7.md)
     - [2.8 编写第一个 Django APP ，第六部分](doc/2.8.md)
-    - 2.9 编写第一个 Django APP ，第七部分
+    - [2.9 编写第一个 Django APP ，第七部分](doc/2.9.md)
     - 2.10 进阶指南：如何编写可复用的程序
     - 2.11 接下来看什么
     - 2.12 为 Django 编写第一个补丁
