@@ -1,8 +1,8 @@
 # django 文档
 
-官网有现成的[中文翻译](https://docs.djangoproject.com/zh-hans/3.1/),有需要直接看。
+官网有现成的[中文翻译](https://docs.djangoproject.com/zh-hans/3.1/),有需要的请直接看官网翻译~~。
 
-下面为对照[官网英文 PDF](doc/django.pdf)版的个人练习翻译 👇👇👇
+下面为对照[官网英文 PDF](doc/django.pdf)版的个人翻译练习 👇👇👇
 
 ---
 
